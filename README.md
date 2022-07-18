@@ -1,0 +1,2 @@
+# ninja
+/opt/ninja
